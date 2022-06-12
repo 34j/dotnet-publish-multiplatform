@@ -1,5 +1,5 @@
 # dotnet-publish-multiplatform.sh
-Shell script to build a .NET project for multiple target frameworks and zip each built program at once.
+Shell script to publish a .NET project for multiple target frameworks and zip each built program at once.
 ## What it does
 1. runs `dotnet publish -c Release -r $arch`. (Which usually? means building self-contained app.) 
 2. zips the folder to `./bin/publish`
