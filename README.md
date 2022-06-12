@@ -10,3 +10,7 @@ Shell script to publish a .NET project for multiple target frameworks and zip ea
 ```shell
 > publish.sh
 ```
+
+```shell
+> your-project-folder-name/publish.sh
+```
