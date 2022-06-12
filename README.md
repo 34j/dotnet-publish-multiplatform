@@ -5,7 +5,7 @@ Shell script to publish a .NET project for multiple target frameworks and zip ea
 2. zips the folder to `./bin/publish`
 ## Installation (Windows)
 1. Install git bush by pressing download button [here](https://gitforwindows.org/)
-2. Put publish.sh in the same directory as your project file (.csproj, etc.)
+2. Put `publish.sh` in the same directory as your project file (`.csproj`, etc.)
 ## Usage
 ```shell
 > publish.sh
